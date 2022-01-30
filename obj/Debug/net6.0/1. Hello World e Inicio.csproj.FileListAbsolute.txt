@@ -1,0 +1,14 @@
+D:\Documents\C#\1. Hello World e Inicio\bin\Debug\net6.0\1. Hello World e Inicio.exe
+D:\Documents\C#\1. Hello World e Inicio\bin\Debug\net6.0\1. Hello World e Inicio.deps.json
+D:\Documents\C#\1. Hello World e Inicio\bin\Debug\net6.0\1. Hello World e Inicio.runtimeconfig.json
+D:\Documents\C#\1. Hello World e Inicio\bin\Debug\net6.0\1. Hello World e Inicio.dll
+D:\Documents\C#\1. Hello World e Inicio\bin\Debug\net6.0\ref\1. Hello World e Inicio.dll
+D:\Documents\C#\1. Hello World e Inicio\bin\Debug\net6.0\1. Hello World e Inicio.pdb
+D:\Documents\C#\1. Hello World e Inicio\obj\Debug\net6.0\1. Hello World e Inicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\C#\1. Hello World e Inicio\obj\Debug\net6.0\1. Hello World e Inicio.AssemblyInfoInputs.cache
+D:\Documents\C#\1. Hello World e Inicio\obj\Debug\net6.0\1. Hello World e Inicio.AssemblyInfo.cs
+D:\Documents\C#\1. Hello World e Inicio\obj\Debug\net6.0\1. Hello World e Inicio.csproj.CoreCompileInputs.cache
+D:\Documents\C#\1. Hello World e Inicio\obj\Debug\net6.0\1. Hello World e Inicio.dll
+D:\Documents\C#\1. Hello World e Inicio\obj\Debug\net6.0\ref\1. Hello World e Inicio.dll
+D:\Documents\C#\1. Hello World e Inicio\obj\Debug\net6.0\1. Hello World e Inicio.pdb
+D:\Documents\C#\1. Hello World e Inicio\obj\Debug\net6.0\1. Hello World e Inicio.genruntimeconfig.cache
